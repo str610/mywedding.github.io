@@ -15,4 +15,9 @@ html, body {
     justify-content: center;
 
     background-color: var(--background-color);
+
+}
+
+.main-content > .banner {
+    width: 512px;
 }
